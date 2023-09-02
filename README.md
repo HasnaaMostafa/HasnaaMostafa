@@ -15,15 +15,16 @@
 - 🏢 I’m currently learning **Flutter**
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 
+### Connect with Me :
+
+<a href="https://www.linkedin.com/in/hasnaa-mostafa-885876260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hasnaa Mostafa" height="30" width="40" /></a>
+
 
 
 <!--
 - 💬 Ask me about **Flutter**
 - 📫 How to reach me **hasnaamostafa88@gmail.com**
 
-### Connect with Me :
-
-<a href="https://www.linkedin.com/in/hasnaa-mostafa-885876260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hasnaa Mostafa" height="30" width="40" /></a>
 
 **HasnaaMostafa/HasnaaMostafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

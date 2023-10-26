@@ -14,6 +14,7 @@
 
 - 🏢 I’m currently learning **Flutter**
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🗒️ Know about my experience  https://resume.io/r/zG92ea7kq
 
 ### Connect with Me :
 

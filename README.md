@@ -35,7 +35,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HasnaaMostafa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hasnaa Mostafa"/></p>
-<p>&nbsp;<img align="center"src="https://github-readme-stats.vercel.app/api?username=HasnaaMostafa&show_icons=true&locale=en&theme=tokyonight" alt="Hasnaa Mostafa"/></p>
+<p><img align="center"src="https://github-readme-stats.vercel.app/api?username=HasnaaMostafa&show_icons=true&locale=en&theme=tokyonight" alt="Hasnaa Mostafa"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HasnaaMostafa&&theme=tokyonight" alt="Hasnaa Mostafa" /></p>
 
 

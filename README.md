@@ -15,6 +15,7 @@
 - 🏢 I’m currently learning **Flutter**
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 🗒️ Know about my experience https://drive.google.com/file/d/1ZaeiSuAGv2h8CFOHNUP3N2JWUckI_2jq/view?usp=drivesdk
+- 📫 How to reach me **hasnaamostafa88@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HasnaaMostafa&label=Profile%20views&color=0e75b6&style=flat" alt="HasnaaMostafa" /> </p>
 
@@ -34,17 +35,12 @@
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="40"/></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-<div align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HasnaaMostafa&show_icons=true&locale=en&layout=compact" alt="Hasnaa Mostafa" /></p>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HasnaaMostafa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hasnaa Mostafa" /></p></br>
 
-<div align="left">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HasnaaMostafa&show_icons=true&locale=en" alt="Hasnaa Mostafa" /></p>
-</div>
+<p>&nbsp;<img align="center"src="https://github-readme-stats.vercel.app/api?username=HasnaaMostafa&show_icons=true&locale=en&theme=tokyonight" alt="Hasnaa Mostafa" /></p></br>
 
-<div align="left">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HasnaaMostafa&" alt="Hasnaa Mostafa" /></p>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HasnaaMostafa&&theme=tokyonight" alt="Hasnaa Mostafa" /></p>
+
 
 
 <!--
